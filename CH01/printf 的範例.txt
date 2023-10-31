@@ -1,0 +1,60 @@
+ *********       ***         *          *
+ *       *      *   *       ***        * *
+ *       *     *     *     *****      *   *
+ *       *    *       *      *       *     *
+ *       *    *       *      *      *       *
+ *       *    *       *      *       *     *
+ *       *     *     *       *        *   *
+ *       *      *   *        *         * *
+ *********       ***         *          *
+
+--------------------------------------------------------
+
+        VVVVVVV
+     VVV
+   V
+ V
+   V
+     VVVV
+         VVVVVV
+
+ I            I
+ IIIIIIIIIIIIII
+ I            I
+
+        VVVVVVV
+     VVV
+   V
+ V
+   V
+     VVVV
+         VVVVVV
+
+ I            I 
+ IIIIIIIIIIIIII
+ I            I
+
+ AAAAAAA
+        AAA
+       A    A
+       A      A
+       A    A
+        AAA
+ AAAAAAA
+
+ NNNNNNNNNNNNNN
+             N
+           N
+        N
+     N
+  N
+ NNNNNNNNNNNNNN
+
+-----------------------------------------
+
+     *
+    ***
+   *****
+  *******
+ *********
+

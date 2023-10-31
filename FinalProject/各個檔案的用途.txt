@@ -1,0 +1,4 @@
+31	git clone 下來的
+ALL	完整程式
+code_023136	push上去的原始程式
+orignal		push上去備用的

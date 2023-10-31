@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\mydocuments\vivi\school\ntut\課本電子檔\大一上\高階程式\ch05\hw05\6.33\source\main.c(63): warning C4715: 'binarySearch': 不是所有控制路徑都傳回值
+  6.33.vcxproj -> C:\MyDocuments\Vivi\SCHOOL\NTUT\課本電子檔\大一上\高階程式\CH05\HW05\6.33\6.33\6.33\..\..\temp\debug\6.33.exe
